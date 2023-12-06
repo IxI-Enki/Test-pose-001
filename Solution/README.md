@@ -17,10 +17,8 @@
 using Microsoft.VisualBasic;
 using System;
 namespace Test_pose_001
-{
-    class Program
-    {
-        static void Main()
+{   class Program
+    {   static void Main()
         {
             int task;
             string choice;
@@ -38,21 +36,23 @@ namespace Test_pose_001
                 {
                     case 1:
                         {  First Show = new First();
-                           Show.Task();  }break;
+                           Show.Task(); }break;
                     case 2:
                         {  Second Show = new Second();
-                           Show.Task();  }break;
+                           Show.Task(); }break;
                     case 3:
-                        break;
+                        {  Third Show = new Third();
+                           Show.Task(); }break;
                     case 4:
-                        break;
+                        {  Forth Show = new Forth();
+                            Show.Task(); }break;
                     case 5:
-                        break;
+                        {  Fifth Show = new Fifth();
+                           Show.Task(); }break;
                     case 6:
-                        break;
+                        {  Sixth Show = new Sixth();
+                           Show.Task(); }break;
                     case 0:
-                        task = 0;
-                        break;
                     default:
                         Console.Write("\n ungültige Wahl \n");
                         break;
@@ -61,6 +61,8 @@ namespace Test_pose_001
         }
     }
 }
+
+
 
 
 
