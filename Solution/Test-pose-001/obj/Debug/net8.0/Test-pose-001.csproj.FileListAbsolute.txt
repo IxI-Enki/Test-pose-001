@@ -1,0 +1,14 @@
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.GeneratedMSBuildEditorConfig.editorconfig
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.AssemblyInfoInputs.cache
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.AssemblyInfo.cs
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.csproj.CoreCompileInputs.cache
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\bin\Debug\net8.0\Test-pose-001.exe
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\bin\Debug\net8.0\Test-pose-001.deps.json
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\bin\Debug\net8.0\Test-pose-001.runtimeconfig.json
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\bin\Debug\net8.0\Test-pose-001.dll
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\bin\Debug\net8.0\Test-pose-001.pdb
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.dll
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\refint\Test-pose-001.dll
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.pdb
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\Test-pose-001.genruntimeconfig.cache
+E:\[ ~ H T L ~ ]\~Software - Projekte\Visual Studio Code\[ C# ] - Projekte\Test-001 -- Grundlagen\Test-pose-001\Test-pose-001\obj\Debug\net8.0\ref\Test-pose-001.dll
