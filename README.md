@@ -88,7 +88,7 @@
 
 <!------------------------------------------------->
 
-## **Ausführbare Antworten**:  
+## **Snipets**:  
 <details>
   <summary> [klick] - Nummer 1: </summary>  
 
