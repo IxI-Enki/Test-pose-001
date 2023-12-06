@@ -5,6 +5,9 @@
     Basic github formatting syntax:  
       https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  ------------------------------------------------------------------->
+
+      > by Jan Ritt - 3ACIF
+ 
 # 1. Test - Programmieren & Softwareentwicklung
 ## **Angabe**:  
 > Vollständige [pdf](https://github.com/IxI-Enki/Test-pose-001/blob/main/Angabe/Test-pose-001%20--%20Angabe(leer).pdf)
