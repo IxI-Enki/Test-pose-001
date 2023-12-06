@@ -89,6 +89,7 @@
 <!------------------------------------------------->
 
 ## **Snippets**:  
+> Vollständige [Solution](https://github.com/IxI-Enki/Test-pose-001/tree/main/Solution)
 <details>
   <summary> [klick] - Nummer 1: </summary>  
 
