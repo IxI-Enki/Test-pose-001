@@ -216,7 +216,7 @@
 /* LOOP A */        y = 1; j = 1;
                     do
                     {   y = y + j;
-                        j++;
+                        j--;
 /* A */             } while (y < 200);
 /* NOT TERMINATED */
 
