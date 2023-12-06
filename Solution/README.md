@@ -19,22 +19,25 @@ using System;
 namespace Test_pose_001
 {   class Program
     {   static void Main()
-        {
-            int task;
+        {  int task;
             string choice;
             do
-            {
-                Console.Clear();
+            {   Console.Clear();
                 do
-                {
-                    Console.Write("\n Wählen Sie eine Aufgabe [1-6]" +
-                                  "\n [0] > Auswahl beenden\n   ");
+                {   Console.Write("\n Wählen Sie eine Aufgabe [1-6]" +
+                                  "\n [0] > Auswahl beenden   " +
+                                  "\n" +
+                                  "\n 1) Prüfe 3 Werte, auf GENAU 2 gleiche" +
+                                  "\n 2) Sortiere 3 Werte absteigend" +
+                                  "\n 3) Gib die Tage eines Monats aus" +
+                                  "\n 4) Codevereinfachung" +
+                                  "\n 5) 2 Schleifen" +
+                                  "\n 6) Errechne die Ziffernsumme");
                     choice = Console.ReadLine();
                 } while (int.TryParse(choice, out task) == false);
 
                 switch (task)
-                {
-                    case 1:
+                {   case 1:
                         {  First Show = new First();
                            Show.Task(); }break;
                     case 2:
@@ -54,14 +57,12 @@ namespace Test_pose_001
                            Show.Task(); }break;
                     case 0:
                     default:
-                        Console.Write("\n Abbruch \n");
-                        break;
+                        Console.Write("\n Abbruch \n"); break;
                 }
             } while (task != 0);
         }
     }
 }
-
 
 
 
