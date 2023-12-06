@@ -162,18 +162,15 @@
                 case 12:       // December
                     days = 31;
                     break;
-
                 case 4:        // April
                 case 6:        // June
                 case 9:        // September
                 case 11:       // November
                     days = 30;
                     break;
-
                 case 2:        // February
                     days = 28; // Assuming no leap year for simplicity
                     break;
-
                 default:
                     Console.Write("\nUngültige Eingabe\n");
                     return;
@@ -205,7 +202,6 @@
             shortA = (x * y < 0) ? x * (-y) : x * y;  
 /* OUT */   Console.Write($"\n [a]: {a}" +       // a 1 |  1 |  1 |  1 
                           $"\n [A]: {shortA}");  // A 1 |  1 |  1 |  1 
-
 ```  
 </details>
 
@@ -229,7 +225,6 @@
                     {   x = x + 3;
                         j--; j--;
 /* B - TERMINATED */}
-
 ```  
 </details>
 
@@ -239,7 +234,15 @@
   <summary> [klick] - Nummer 6: </summary>  
 
 ```c#
-
+/* DECLARE VARIABLES */
+            int n, sum;
+                sum = 0;
+/* CALCULATION */
+            while(n != 0)
+            {   sum = sum + (n % 10);
+                n = n / 10;
+            }
+/* OUT */   Console.Write($"\n Die Ziffernsumme der Zahl ist {sum}");
 ```  
 </details>
 
