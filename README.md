@@ -6,7 +6,7 @@
       https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  ------------------------------------------------------------------->
 
-      > by Jan Ritt - 3ACIF    [ 71% - 3 ]
+   > by Jan Ritt - 3ACIF    [ 71% - 3 ]
  
 # 1. Test - Programmieren & Softwareentwicklung
 ## **Angabe**:  
