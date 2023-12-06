@@ -88,7 +88,7 @@
 
 <!------------------------------------------------->
 
-## **Snipets**:  
+## **Snippets**:  
 <details>
   <summary> [klick] - Nummer 1: </summary>  
 
