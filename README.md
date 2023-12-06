@@ -19,55 +19,56 @@
 
 ## **Abgabe**:  
 > Vollständige [pdf:](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001.pdf)  
-<details>
-  <summary> [klick] - Seite 1: </summary>  
 
+<details>
+  <summary> [klick] - Angabeseite: </summary>  
+
+ ![Angabe](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Angabe.jpg)  
  
+</details>
+
+<!-- -->
+
+<details>
+  <summary> [klick] - Nummer 1 & 2: </summary>    
+ 
+ ![Seite 1](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Seite%20(1).jpg)
   
 </details>
 
 <!-- -->
 
 <details>
-  <summary> [klick] - Seite 2: </summary>  
+  <summary> [klick] - Nummer 3: </summary>  
 
- 
+![Seite 2](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Seite%20(2).jpg) 
   
 </details>
 
 <!-- -->
 
 <details>
-  <summary> [klick] - Seite 3: </summary>  
+  <summary> [klick] - Nummer 4: </summary>  
 
- 
+ ![Seite 5](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Seite%20(5).jpg)
   
 </details>
 
 <!-- -->
 
 <details>
-  <summary> [klick] - Seite 4: </summary>  
+  <summary> [klick] - Nummer 5: </summary>  
 
- 
+ ![Seite 3](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Seite%20(3).jpg)
   
 </details>
 
 <!-- -->
 
 <details>
-  <summary> [klick] - Seite 5: </summary>  
+  <summary> [klick] - Nummer 6: </summary>  
 
- 
-  
-</details>
-
-<!-- -->
-
-<details>
-  <summary> [klick] - Seite 6: </summary>  
-
- 
+ ![Seite 4](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001%20--%20Seite%20(4).jpg)
   
 </details>
 
