@@ -215,6 +215,20 @@
   <summary> [klick] - Nummer 5: </summary>  
 
 ```c#
+/* DECLARE VARIABLES */
+            int y, x,   j;
+/* LOOP A */        y = 1; j = 1;
+                    do
+                    {   y = y + j;
+                        j++;
+/* A - NOT */       } while (y < 200);
+
+
+/* LOOP B */        x = 1; j = 20;
+                    while (x+j < 100)
+                    {   x = x + 3;
+                        j--; j--;
+/* B - TERMINATED */}
 
 ```  
 </details>
