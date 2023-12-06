@@ -54,7 +54,7 @@ namespace Test_pose_001
                            Show.Task(); }break;
                     case 0:
                     default:
-                        Console.Write("\n ungültige Wahl \n");
+                        Console.Write("\n Abbruch \n");
                         break;
                 }
             } while (task != 0);
