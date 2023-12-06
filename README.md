@@ -188,6 +188,23 @@
   <summary> [klick] - Nummer 4: </summary>  
 
 ```c#
+ /* DECLARE VARIABLES */
+            int x, y, a,
+                shortA;
+/* CALCULATION ------ original code ------------ */  
+            if (x < 0 && y < 0)                  //
+                a = x * y;                       //
+            else if (x < 0)                      //
+                a = x * (-y);                    // -------- x --------
+            else if (y > 0)                      //  -1 | -1 |  1 |  1 
+                a = (-x) * (-y);                 //
+            else                                 // -------- y --------
+                a = x * (-y);                    //  -1 |  1 | -1 |  1 
+
+/* CALCULATION ------ shortened code ----------- */
+            shortA = (x * y < 0) ? x * (-y) : x * y;  
+/* OUT */   Console.Write($"\n [a]: {a}" +       // a 1 |  1 |  1 |  1 
+                          $"\n [A]: {shortA}");  // A 1 |  1 |  1 |  1 
 
 ```  
 </details>
