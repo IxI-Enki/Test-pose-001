@@ -7,7 +7,7 @@
  ------------------------------------------------------------------->
 # 1. Test - Programmieren & Softwareentwicklung
 ## **Angabe**:  
-> Vollständige [pdf:](https://github.com/IxI-Enki/Test-pose-001/blob/main/Angabe/Test-pose-001%20--%20Angabe(leer).pdf)
+> Vollständige [pdf](https://github.com/IxI-Enki/Test-pose-001/blob/main/Angabe/Test-pose-001%20--%20Angabe(leer).pdf)
 <details>
   <summary> [klick] für VORSCHAU: </summary> 
   
@@ -17,8 +17,9 @@
 
 -------------------------------  
 
+<!------------------------------------------------->
 ## **Abgabe**:  
-> Vollständige [pdf:](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001.pdf)  
+> Vollständige [pdf](https://github.com/IxI-Enki/Test-pose-001/blob/main/Abgabe/Test-pose-001.pdf)  
 
 <details>
   <summary> [klick] - Angabeseite: </summary>  
@@ -74,13 +75,17 @@
 
 -------------------------------  
 
+<!------------------------------------------------->
 ## **Verbesserung**:  
-> Vollständige [pdf:]( )
+> Vollständige [pdf]( )
 
 
 
 -------------------------------  
 
+<!------------------------------------------------->
+
+<!-- 
 ## **Ausführbare Antworten**:  
 <details>
   <summary> [klick] - Nummer 1: </summary>  
@@ -90,7 +95,7 @@
 ```  
 </details>
 
-<!-- -->
+<!-- --
 
 <details>
   <summary> [klick] - Nummer 2: </summary>  
@@ -100,7 +105,7 @@
 ```  
 </details>
 
-<!-- -->
+<!-- --
 
 <details>
   <summary> [klick] - Nummer 3: </summary>  
@@ -110,7 +115,7 @@
 ```  
 </details>
 
-<!-- -->
+<!-- --
 
 <details>
   <summary> [klick] - Nummer 4: </summary>  
@@ -120,7 +125,7 @@
 ```  
 </details>
 
-<!-- -->
+<!-- --
 
 <details>
   <summary> [klick] - Nummer 5: </summary>  
@@ -130,7 +135,7 @@
 ```  
 </details>
 
-<!-- -->
+<!-- --
 
 <details>
   <summary> [klick] - Nummer 6: </summary>  
