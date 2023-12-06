@@ -80,9 +80,31 @@
 
 <!------------------------------------------------->
 ## **Verbesserung**:  
-> Vollständige [pdf]( )
+> Vollständige [pdf](https://github.com/IxI-Enki/Test-pose-001/tree/main/Verbesserung)
+<details>
+  <summary> [klick] - Nummer 1 & 2 & 4: </summary>    
 
+ ![Seite 1](https://github.com/IxI-Enki/Test-pose-001/blob/main/Verbesserung/Test-pose-001%20--%20Seite%20(1).jpg)
 
+</details>
+
+<!-- -->
+
+<details>
+  <summary> [klick] - Nummer 3 & 5: </summary>    
+
+![Seite 2](https://github.com/IxI-Enki/Test-pose-001/blob/main/Verbesserung/Test-pose-001%20--%20Seite%20(2).jpg)
+
+</details>
+
+<!-- -->
+
+<details>
+  <summary> [klick] - Nummer 6: </summary>    
+
+![Seite 3](https://github.com/IxI-Enki/Test-pose-001/blob/main/Verbesserung/Test-pose-001%20--%20Seite%20(3).jpg)
+
+</details>
 
 -------------------------------  
 
