@@ -217,8 +217,8 @@
                     do
                     {   y = y + j;
                         j++;
-/* A - NOT */       } while (y < 200);
-
+/* A */             } while (y < 200);
+/* NOT TERMINATED */
 
 /* LOOP B */        x = 1; j = 20;
                     while (x+j < 100)
