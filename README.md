@@ -172,10 +172,10 @@
                     days = 28; // Assuming no leap year for simplicity
                     break;
                 default:
-                    Console.Write("\nUngültige Eingabe\n");
+                    Console.Write("\nAbbruch\n");
                     return;
             }
-/* OUT */   Console.Write($"\n Der {month} hat {days} Tage.");
+/* OUT */   Console.Write($"\n Der {month}. Monat hat {days} Tage.");
 ```  
 </details>
 
